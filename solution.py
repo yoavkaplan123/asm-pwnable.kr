@@ -1,4 +1,3 @@
-  GNU nano 2.5.3                                            File: solu.py                                                                                               
 from pwn import *
 
 context.binary = "/home/asm/asm"
